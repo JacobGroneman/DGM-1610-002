@@ -218,6 +218,7 @@ GameObject:
   - component: {fileID: 1954862964}
   - component: {fileID: 1954862963}
   - component: {fileID: 1954862962}
+  - component: {fileID: 1954862965}
   m_Layer: 0
   m_Name: Particle System
   m_TagString: Untagged
@@ -4905,6 +4906,38 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
+--- !u!114 &1954862965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954862961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37654fd457b888443953cdcd9744f5e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  integerAmount: 5
+  doubleAmount: 0.9
+  Event:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2056947968}
+        m_MethodName: set_isStatic
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  sampleBool: 0
+  whatIsThisChar: 0
 --- !u!1 &2047488160
 GameObject:
   m_ObjectHideFlags: 0
@@ -4944,29 +4977,7 @@ MonoBehaviour:
   firePower: 0
   Event:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2056947968}
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 1954862963}
-        m_MethodName: Emit
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 100
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!65 &2047488162

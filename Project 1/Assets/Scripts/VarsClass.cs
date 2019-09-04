@@ -11,7 +11,7 @@ public class VarsClass : MonoBehaviour
     public string stringValue = "Bob";
     public int firePower;
     public UnityEvent Event;
-    private void OnTriggerEnter(Collider other)
+    public void OnTriggerEnter(Collider other)
     {
         Event.Invoke();
 
