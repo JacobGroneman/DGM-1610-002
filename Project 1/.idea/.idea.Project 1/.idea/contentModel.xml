@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="ScriptFor09062019.cs" t="Include" />
           <e p="StartBehavior.cs" t="Include" />
           <e p="VarsClass.cs" t="Include" />
         </e>

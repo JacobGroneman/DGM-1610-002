@@ -26,6 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptFor09062019.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -38,6 +39,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/VarsClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Script090419.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptFor09062019.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +98,9 @@
       <workItem from="1567543278589" duration="3587000" />
       <workItem from="1567616893018" duration="1890000" />
       <workItem from="1567709807166" duration="913000" />
-      <workItem from="1567735842229" duration="2236000" />
+      <workItem from="1567735842229" duration="2837000" />
+      <workItem from="1567788193396" duration="1834000" />
+      <workItem from="1567790152183" duration="37000" />
     </task>
     <servers />
   </component>
@@ -126,6 +130,8 @@
     <state x="518" y="136" key="RiderGenerateDialog/1920.1080" />
     <state x="261" y="54" key="SettingsEditor" />
     <state x="261" y="54" key="SettingsEditor/1920.1080" />
+    <state x="393" y="190" key="run.anything.popup" />
+    <state x="393" y="190" key="run.anything.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
