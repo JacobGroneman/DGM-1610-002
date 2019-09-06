@@ -57,7 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Script090419.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\StartBehavior.cs" />
     <Compile Include="Assets\Scripts\VarsClass.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
