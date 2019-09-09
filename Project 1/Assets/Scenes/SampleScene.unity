@@ -220,6 +220,7 @@ GameObject:
   - component: {fileID: 641621174}
   - component: {fileID: 641621177}
   - component: {fileID: 641621173}
+  - component: {fileID: 641621178}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -332,6 +333,36 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
   stringValue: hello World
   doubleAmount: 0.002
+--- !u!114 &641621178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 641621172}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 704b2631b76a9de4fb9ddb751b4acdd9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  theBool: 0
+  bool2TheSequel: 1
+  integrityInteger: 5
+  aFact: integer sounds kind of like integrity
+  youllFloatToo: 27
+  Event:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  aString: One day I might be a coding genius...
+  soLong: 9223372036854775807
+  anEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  yay: strings are stringy
 --- !u!1 &1911902857
 GameObject:
   m_ObjectHideFlags: 0
@@ -436,3 +467,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50e1c1e619b178b469c9ee342fbe2270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  theBool: 0
+  theeBool: 1
+  integer1: 10
+  floatingSink: 10.5
+  doubleCrust: 4
+  tripleCrust: 6
+  stringComments: wow that's a butt-load of crust
+  pizzariaBlowsUp:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  psaForCitizens: String is not yarn
+  aCoincidence: Sting is a member of The Police and police and police go on public
+    stings
+  governmentConspiracy:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  varsClass: {fileID: 0}
+  Event:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
