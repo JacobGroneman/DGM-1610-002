@@ -10,11 +10,16 @@
           <e p="Behaviors from 3rd Week" t="Include">
             <e p="Behavior09092019.cs" t="Include" />
             <e p="FloatData.cs" t="Include" />
+            <e p="MouseEvents.cs" t="Include" />
             <e p="NewBehaviourScript.cs" t="Include" />
             <e p="ScriptFor09062019.cs" t="Include" />
             <e p="StartBehavior.cs" t="Include" />
             <e p="VarsClass.cs" t="Include" />
           </e>
+          <e p="DogClassOnMouseDown.cs" t="Include" />
+          <e p="LightOffClass.cs" t="Include" />
+          <e p="ParticleControl.cs" t="Include" />
+          <e p="TriggerEventPracticeScript.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
         </e>
       </e>
