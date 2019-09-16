@@ -57,9 +57,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Practice Scripts\EventTrigger.cs" />
-    <Compile Include="Assets\Practice Scripts\FloatDataScript.cs" />
-    <Compile Include="Assets\Practice Scripts\VarsClassPractice.cs" />
+    <Compile Include="Assets\Scripts\Practice Scripts\EventTrigger.cs" />
+    <Compile Include="Assets\Scripts\Practice Scripts\FloatDataScript.cs" />
+    <Compile Include="Assets\Scripts\Practice Scripts\VarsClassPractice.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\MouseEvents.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\ParticleControl.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\StartBehavior.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Reference Scripts\VarsClass.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Practicing Unity Event and Float Data Scripts/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
