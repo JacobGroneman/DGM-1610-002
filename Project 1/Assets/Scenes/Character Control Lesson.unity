@@ -396,10 +396,10 @@ GameObject:
   - component: {fileID: 317098508}
   - component: {fileID: 317098507}
   - component: {fileID: 317098506}
-  - component: {fileID: 317098505}
-  - component: {fileID: 317098504}
   - component: {fileID: 317098510}
   - component: {fileID: 317098509}
+  - component: {fileID: 317098505}
+  - component: {fileID: 317098504}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -407,24 +407,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &317098504
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 317098503}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9754dc743055b7e4bbe2e4830d993d39, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 20
-  gravity: 8
-  jump: 125
-  position: {x: 0, y: 0, z: 0}
-  controller: {fileID: 317098505}
---- !u!143 &317098505
+--- !u!143 &317098504
 CharacterController:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -442,6 +425,22 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &317098505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 317098503}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c07d72da09f3e5d4ba97d452fd46356f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 10
+  gravity: 3
+  jumpSpeed: 30
+  jumpCountMax: 2
 --- !u!23 &317098506
 MeshRenderer:
   m_ObjectHideFlags: 0

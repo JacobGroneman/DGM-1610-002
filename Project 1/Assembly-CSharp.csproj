@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scripts\LightOffClass.cs" />
     <Compile Include="Assets\Scripts\Movement\Movement.cs" />
     <Compile Include="Assets\Scripts\Movement\MovementPractice.cs" />
+    <Compile Include="Assets\Scripts\Movement\MovementSept192019.cs" />
     <Compile Include="Assets\Scripts\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\TriggerEventPracticeScript.cs" />
     <Compile Include="Assets\Scripts\TriggerEvents.cs" />
