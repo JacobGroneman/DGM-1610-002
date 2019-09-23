@@ -16,16 +16,21 @@
             <e p="StartBehavior.cs" t="Include" />
             <e p="VarsClass.cs" t="Include" />
           </e>
-          <e p="DogClassOnMouseDown.cs" t="Include" />
-          <e p="LightOffClass.cs" t="Include" />
-          <e p="Movement" t="Include">
-            <e p="Movement.cs" t="Include" />
-            <e p="MovementPractice.cs" t="Include" />
-            <e p="MovementSept192019.cs" t="Include" />
+          <e p="CameraController" t="Include">
+            <e p="cameraControllerTest.cs" t="Include" />
           </e>
-          <e p="ParticleControl.cs" t="Include" />
-          <e p="TriggerEventPracticeScript.cs" t="Include" />
-          <e p="TriggerEvents.cs" t="Include" />
+          <e p="Movement" t="Include">
+            <e p="CharacterController.cs" t="Include" />
+            <e p="ControllerPractice.cs" t="Include" />
+            <e p="Movement.cs" t="Include" />
+          </e>
+          <e p="Other" t="Include">
+            <e p="DogClassOnMouseDown.cs" t="Include" />
+            <e p="LightOffClass.cs" t="Include" />
+            <e p="ParticleControl.cs" t="Include" />
+            <e p="TriggerEventPracticeScript.cs" t="Include" />
+            <e p="TriggerEvents.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

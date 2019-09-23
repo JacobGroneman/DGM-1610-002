@@ -64,14 +64,15 @@
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\ScriptFor09062019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\StartBehavior.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\VarsClass.cs" />
-    <Compile Include="Assets\Scripts\DogClassOnMouseDown.cs" />
-    <Compile Include="Assets\Scripts\LightOffClass.cs" />
+    <Compile Include="Assets\Scripts\CameraController\cameraControllerTest.cs" />
+    <Compile Include="Assets\Scripts\Movement\CharacterController.cs" />
+    <Compile Include="Assets\Scripts\Movement\ControllerPractice.cs" />
     <Compile Include="Assets\Scripts\Movement\Movement.cs" />
-    <Compile Include="Assets\Scripts\Movement\MovementPractice.cs" />
-    <Compile Include="Assets\Scripts\Movement\MovementSept192019.cs" />
-    <Compile Include="Assets\Scripts\ParticleControl.cs" />
-    <Compile Include="Assets\Scripts\TriggerEventPracticeScript.cs" />
-    <Compile Include="Assets\Scripts\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Other\DogClassOnMouseDown.cs" />
+    <Compile Include="Assets\Scripts\Other\LightOffClass.cs" />
+    <Compile Include="Assets\Scripts\Other\ParticleControl.cs" />
+    <Compile Include="Assets\Scripts\Other\TriggerEventPracticeScript.cs" />
+    <Compile Include="Assets\Scripts\Other\TriggerEvents.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

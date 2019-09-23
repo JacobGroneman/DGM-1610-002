@@ -6,7 +6,7 @@ using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
 
-public class NewBehaviourScript : MonoBehaviour
+public partial class NewBehaviourScript : MonoBehaviour
 {
     public float floatValue = 5.5f;
     public int integerValue = 5;
