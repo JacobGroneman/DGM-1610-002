@@ -30,9 +30,12 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/aa/e27aef81/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -65,6 +68,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" />
+        <option value="$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoingForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +83,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -134,6 +143,7 @@
       <workItem from="1568867386334" duration="2262000" />
       <workItem from="1568925390330" duration="4661000" />
       <workItem from="1569208083221" duration="2454000" />
+      <workItem from="1569357030672" duration="4601000" />
     </task>
     <servers />
   </component>
