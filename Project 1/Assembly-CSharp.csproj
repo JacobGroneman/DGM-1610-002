@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\StartBehavior.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\VarsClass.cs" />
     <Compile Include="Assets\Scripts\CameraController\cameraControllerTest.cs" />
+    <Compile Include="Assets\Scripts\FunctionScript.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\Movement\CharacterController.cs" />
