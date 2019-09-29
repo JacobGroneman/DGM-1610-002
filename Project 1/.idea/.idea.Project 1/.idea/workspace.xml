@@ -29,6 +29,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/cardDisplay.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -151,7 +152,8 @@
       <workItem from="1569531096281" duration="57000" />
       <workItem from="1569531217405" duration="2809000" />
       <workItem from="1569540744241" duration="1106000" />
-      <workItem from="1569609937303" duration="527000" />
+      <workItem from="1569609937303" duration="935000" />
+      <workItem from="1569734943195" duration="902000" />
     </task>
     <servers />
   </component>
