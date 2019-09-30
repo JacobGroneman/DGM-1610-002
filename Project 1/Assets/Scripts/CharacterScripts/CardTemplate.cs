@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 [CreateAssetMenu(fileName = "New Card", menuName = "Card")]
-public class ScriptableCharacterPractice : ScriptableObject
+public class CardTemplate : ScriptableObject
 {
    public new string name;
    public string description;
@@ -15,4 +15,11 @@ public class ScriptableCharacterPractice : ScriptableObject
    public int manaCost;
    public int attack;
    public int health;
+
+
+
+   public void Print()
+   {
+      Debug.Log(name + ":" + description + "  " + "The Card Costs:" + manaCost);
+   }
 }

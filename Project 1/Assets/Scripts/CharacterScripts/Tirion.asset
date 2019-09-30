@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd03e60096efcba4a9bf3ad09e79ca45, type: 3}
-  m_Name: Edwin
+  m_Name: Tirion
   m_EditorClassIdentifier: 
-  name: Edwin
-  description: The Baddest Guy In Town
-  artwork: {fileID: 21300000, guid: ce44311615e2c0b40926b6d2f9ad4549, type: 3}
-  manaCost: 3
-  attack: 5
-  health: 7
+  name: Tirion
+  description: His Light Shall Burn You
+  artwork: {fileID: 0}
+  manaCost: 6
+  attack: 8
+  health: 10
