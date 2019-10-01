@@ -43,6 +43,10 @@
               <e p="cardTemplate.cs" t="Include" />
             </e>
             <e p="CharacterScript.cs" t="Include" />
+            <e p="Integer Datas" t="Include">
+              <e p="intData.cs" t="Include" />
+              <e p="uiTextController.cs" t="Include" />
+            </e>
             <e p="NaughtyPeopleScripts" t="Include">
               <e p="CardTemplate2.cs" t="Include" />
             </e>

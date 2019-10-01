@@ -376,7 +376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 77e36b28f728d604096f0592c940213d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  convictStats: {fileID: 11400000, guid: 33667d53c91271f4e8f115baba7a5bba, type: 2}
+  convictStats: {fileID: 11400000, guid: 57ae81709435efb41a1826cc630f0a85, type: 2}
   uiConvictName: {fileID: 904564614}
   uiDescription: {fileID: 653763909}
   uiMugShot: {fileID: 574386753}
