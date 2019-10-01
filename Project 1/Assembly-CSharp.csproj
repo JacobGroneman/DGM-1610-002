@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\cardDisplay.cs" />
+    <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\Behavior09092019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\FloatData.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\MouseEvents.cs" />
@@ -66,8 +67,6 @@
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\StartBehavior.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\VarsClass.cs" />
     <Compile Include="Assets\Scripts\CameraController\cameraControllerTest.cs" />
-    <Compile Include="Assets\Scripts\CharacterScripts\CardTemplate.cs" />
-    <Compile Include="Assets\Scripts\CharacterScripts\CharacterScript.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\Movement\CharacterController.cs" />
@@ -79,6 +78,9 @@
     <Compile Include="Assets\Scripts\Other\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEventPracticeScript.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Scriptable Objects\BrackiesTutorial\CardTemplate.cs" />
+    <Compile Include="Assets\Scripts\Scriptable Objects\CharacterScript.cs" />
+    <Compile Include="Assets\Scripts\Scriptable Objects\NaughtyPeopleScripts\CardTemplate2.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

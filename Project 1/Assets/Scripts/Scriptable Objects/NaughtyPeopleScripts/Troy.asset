@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aeafbc20b6282b4e8bc03f7006fd53a, type: 3}
+  m_Name: Troy
+  m_EditorClassIdentifier: 
+  name: Troy
+  description: Kissing Ass
+  mugshot: {fileID: 21300000, guid: 3ec8512bc1d966f4585eee6186086045, type: 3}
+  favoritePastTime: Making Arts and Crafts
+  paraphernalia: Lots of Glitter
+  victim: The Glitter

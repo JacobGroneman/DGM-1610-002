@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="cardDisplay.cs" t="Include" />
+        <e p="convictDisplay.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Behaviors from 3rd Week" t="Include">
             <e p="Behavior09092019.cs" t="Include" />
@@ -19,10 +20,6 @@
           </e>
           <e p="CameraController" t="Include">
             <e p="cameraControllerTest.cs" t="Include" />
-          </e>
-          <e p="CharacterScripts" t="Include">
-            <e p="cardTemplate.cs" t="Include" />
-            <e p="CharacterScript.cs" t="Include" />
           </e>
           <e p="If Statements" t="Include">
             <e p="getFruity.cs" t="Include" />
@@ -40,6 +37,15 @@
             <e p="ParticleControl.cs" t="Include" />
             <e p="TriggerEventPracticeScript.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
+          </e>
+          <e p="Scriptable Objects" t="Include">
+            <e p="BrackiesTutorial" t="Include">
+              <e p="cardTemplate.cs" t="Include" />
+            </e>
+            <e p="CharacterScript.cs" t="Include" />
+            <e p="NaughtyPeopleScripts" t="Include">
+              <e p="CardTemplate2.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>
