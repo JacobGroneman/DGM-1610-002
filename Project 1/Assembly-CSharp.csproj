@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\CameraController\cameraControllerTest.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
+    <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
     <Compile Include="Assets\Scripts\Movement\CharacterController.cs" />
     <Compile Include="Assets\Scripts\Movement\ControllerPractice.cs" />
     <Compile Include="Assets\Scripts\Movement\Movement.cs" />
