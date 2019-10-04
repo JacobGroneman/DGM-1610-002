@@ -57,6 +57,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Loops\DoWhileLoop.cs" />
+    <Compile Include="Assets\Scripts\Loops\forLoop.cs" />
+    <Compile Include="Assets\Scripts\Loops\WhileLoop.cs" />
     <Compile Include="Assets\Scripts\Practice Scripts\EventTrigger.cs" />
     <Compile Include="Assets\Scripts\Practice Scripts\FloatDataScript.cs" />
     <Compile Include="Assets\Scripts\Practice Scripts\VarsClassPractice.cs" />

@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/forLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/TriggerEvents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/ParticleControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/MouseEvents.cs" root0="SKIP_HIGHLIGHTING" />
@@ -25,6 +26,7 @@
         <option value="$PROJECT_DIR$/Assets/Practice Scripts/VarsClassPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice Scripts/FloatDataScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Practice Scripts/EventTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Loops/forLoop.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +78,8 @@
       <updated>1568395217273</updated>
       <workItem from="1568395220936" duration="1293000" />
       <workItem from="1568651255495" duration="872000" />
+      <workItem from="1570213646394" duration="27000" />
+      <workItem from="1570214045744" duration="254000" />
     </task>
     <servers />
   </component>

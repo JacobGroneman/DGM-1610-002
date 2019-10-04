@@ -26,6 +26,9 @@
             <e p="IfStatements.cs" t="Include" />
             <e p="IfYouGiveaMouseaCookie.cs" t="Include" />
           </e>
+          <e p="Loops" t="Include">
+            <e p="WhileLoop.cs" t="Include" />
+          </e>
           <e p="Movement" t="Include">
             <e p="CharacterController.cs" t="Include" />
             <e p="ControllerPractice.cs" t="Include" />

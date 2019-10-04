@@ -7,6 +7,11 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="Loops" t="Include">
+            <e p="DoWhileLoop.cs" t="Include" />
+            <e p="forLoop.cs" t="Include" />
+            <e p="WhileLoop.cs" t="Include" />
+          </e>
           <e p="Practice Scripts" t="Include">
             <e p="EventTrigger.cs" t="Include" />
             <e p="FloatDataScript.cs" t="Include" />
