@@ -45,6 +45,7 @@
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/VarsClass.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/aa/e27aef81/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -59,7 +60,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Behavior09092019.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventPracticeScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatDataPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DogScript.cs" />
@@ -91,8 +91,11 @@
         <option value="$PROJECT_DIR$/Assets/convictDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/intData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/monoEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -173,7 +176,9 @@
       <workItem from="1569814726633" duration="1577000" />
       <workItem from="1569899950115" duration="4752000" />
       <workItem from="1569962347434" duration="3442000" />
-      <workItem from="1570077271274" duration="3347000" />
+      <workItem from="1570077271274" duration="3516000" />
+      <workItem from="1570135408411" duration="170000" />
+      <workItem from="1570135644175" duration="4424000" />
     </task>
     <servers />
   </component>

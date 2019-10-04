@@ -32,17 +32,17 @@ public class IfYouGiveaMouseaCookie : MonoBehaviour
            print(giveMeMilk);
         }
         
-        if (giveMeMilk)
+        //if (giveMeMilk)
         {
             print(giveMeStraw);
         }
         
-        if (giveMeStraw)
+       // if (giveMeStraw)
         {
             print(giveMeNapkin);
         }
         
-        if (giveMeNapkin)
+        //if (giveMeNapkin)
         {
             checkMirror = false;
         }
@@ -57,12 +57,12 @@ public class IfYouGiveaMouseaCookie : MonoBehaviour
             print(giveMeNailScissors);
         }
 
-        if (giveMeNailScissors)
+        //if (giveMeNailScissors)
         {
             print(giveMeBroom);
         }
 
-        if (giveMeBroom)
+        //if (giveMeBroom)
         {
             startSweeping = true;
         }
@@ -97,12 +97,12 @@ public class IfYouGiveaMouseaCookie : MonoBehaviour
             print(readMeaStory);
         }
 
-        if (readMeaStory)
+        //if (readMeaStory)
         {
             print(asktoSeePictures);
         }
 
-        if (asktoSeePictures)
+        //if (asktoSeePictures)
         {
             signNameWithPen = true;
         }
@@ -132,7 +132,7 @@ public class IfYouGiveaMouseaCookie : MonoBehaviour
             print(milkAgain);
         }
 
-        if (milkAgain)
+        //if (milkAgain)
         {
             wantCookie = true;
         }

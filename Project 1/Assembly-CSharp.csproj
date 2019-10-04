@@ -84,6 +84,8 @@
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\intData.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\uiTextController.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\NaughtyPeopleScripts\CardTemplate2.cs" />
+    <Compile Include="Assets\Scripts\uiImageController\monoEvents.cs" />
+    <Compile Include="Assets\Scripts\uiImageController\uiImageController.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
