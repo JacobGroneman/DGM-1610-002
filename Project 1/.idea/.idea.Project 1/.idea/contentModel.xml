@@ -55,6 +55,9 @@
               <e p="CardTemplate2.cs" t="Include" />
             </e>
           </e>
+          <e p="UI Elements" t="Include">
+            <e p="HealthBar.cs" t="Include" />
+          </e>
           <e p="uiImageController" t="Include">
             <e p="monoEvents.cs" t="Include" />
             <e p="uiImageController.cs" t="Include" />

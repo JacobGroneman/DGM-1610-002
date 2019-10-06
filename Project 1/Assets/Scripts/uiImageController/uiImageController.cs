@@ -10,9 +10,13 @@ public class uiImageController : MonoBehaviour
 {
     //Declarations
     private Image img;
+    
+    //UI Ties
+    public void UpdateImage(FloatData data)
+    {
+        img.fillAmount = data.value;
+    }
 
-    
-    
     void Awake()
     {
         
@@ -21,10 +25,5 @@ public class uiImageController : MonoBehaviour
 
     
     
-    //UI Ties
-    public void UpdateImage(FloatData data)
-    {
-        img.fillAmount = data.value;
-    }
     
 }

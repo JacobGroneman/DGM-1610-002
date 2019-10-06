@@ -35,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
@@ -96,10 +97,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/monoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" />
         <option value="$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" />
       </list>
     </option>
   </component>
@@ -184,6 +186,7 @@
       <workItem from="1570135408411" duration="170000" />
       <workItem from="1570135644175" duration="4424000" />
       <workItem from="1570212669541" duration="1341000" />
+      <workItem from="1570329933005" duration="1951000" />
     </task>
     <servers />
   </component>
