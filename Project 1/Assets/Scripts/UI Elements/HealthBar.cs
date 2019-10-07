@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[RequireComponent(typeof(Image))]
+
 public class HealthBar : MonoBehaviour
 {
     public Image imgHealthBar;
@@ -54,9 +56,8 @@ public class HealthBar : MonoBehaviour
         SetHealth(100);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void UpdateImage(FloatData data)
     {
-        
+        imgHealthBar.fillAmount = data.value;
     }
 }
