@@ -26,40 +26,41 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/cardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/aa/e27aef81/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/convictDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/VarsClass.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/aa/e27aef81/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/WritingExample.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/VarsClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Script090419.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptFor09062019.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behavior09092019.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
@@ -102,6 +103,15 @@
         <option value="$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/Struct1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/Struct1MonoBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" />
       </list>
     </option>
   </component>
@@ -187,7 +197,8 @@
       <workItem from="1570135644175" duration="4424000" />
       <workItem from="1570212669541" duration="1341000" />
       <workItem from="1570329933005" duration="2543000" />
-      <workItem from="1570416530935" duration="1695000" />
+      <workItem from="1570416530935" duration="1837000" />
+      <workItem from="1570509530711" duration="4385000" />
     </task>
     <servers />
   </component>

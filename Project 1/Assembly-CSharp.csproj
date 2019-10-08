@@ -85,6 +85,13 @@
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\intData.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\uiTextController.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\NaughtyPeopleScripts\CardTemplate2.cs" />
+    <Compile Include="Assets\Scripts\Structs\PokemonStruct.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructAbsol.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructBonsly.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructBulbasaur.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructCharizard.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructDitto.cs" />
+    <Compile Include="Assets\Scripts\Structs\StructFlareon.cs" />
     <Compile Include="Assets\Scripts\UI Elements\HealthBar.cs" />
     <Compile Include="Assets\Scripts\uiImageController\monoEvents.cs" />
     <Compile Include="Assets\Scripts\uiImageController\uiImageController.cs" />

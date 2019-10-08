@@ -55,6 +55,15 @@
               <e p="CardTemplate2.cs" t="Include" />
             </e>
           </e>
+          <e p="Structs" t="Include">
+            <e p="PokemonStruct.cs" t="Include" />
+            <e p="StructAbsol.cs" t="Include" />
+            <e p="StructBonsly.cs" t="Include" />
+            <e p="StructBulbasaur.cs" t="Include" />
+            <e p="StructCharizard.cs" t="Include" />
+            <e p="StructDitto.cs" t="Include" />
+            <e p="StructFlareon.cs" t="Include" />
+          </e>
           <e p="UI Elements" t="Include">
             <e p="HealthBar.cs" t="Include" />
           </e>
