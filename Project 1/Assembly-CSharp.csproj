@@ -80,6 +80,9 @@
     <Compile Include="Assets\Scripts\Other\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEventPracticeScript.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Characters\PlayerData.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\GameArtData.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Weapons\WeaponData.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\BrackiesTutorial\CardTemplate.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\CharacterScript.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\intData.cs" />

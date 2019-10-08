@@ -61,12 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Behavior09092019.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEventPracticeScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatDataPractice.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DogScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DogClassOnMouseDown.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LightOffClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" />
@@ -112,6 +106,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/Characters/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/Weapons/WeaponData.cs" />
       </list>
     </option>
   </component>
@@ -199,6 +199,7 @@
       <workItem from="1570329933005" duration="2543000" />
       <workItem from="1570416530935" duration="1837000" />
       <workItem from="1570509530711" duration="4385000" />
+      <workItem from="1570568205182" duration="3270000" />
     </task>
     <servers />
   </component>

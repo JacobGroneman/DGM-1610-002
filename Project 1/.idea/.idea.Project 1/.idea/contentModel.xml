@@ -42,6 +42,15 @@
             <e p="TriggerEventPracticeScript.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>
+          <e p="Players For Player Data" t="Include">
+            <e p="Characters" t="Include">
+              <e p="PlayerData.cs" t="Include" />
+            </e>
+            <e p="GameArtData.cs" t="Include" />
+            <e p="Weapons" t="Include">
+              <e p="WeaponData.cs" t="Include" />
+            </e>
+          </e>
           <e p="Scriptable Objects" t="Include">
             <e p="BrackiesTutorial" t="Include">
               <e p="cardTemplate.cs" t="Include" />
