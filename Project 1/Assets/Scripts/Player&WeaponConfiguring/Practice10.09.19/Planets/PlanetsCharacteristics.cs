@@ -8,7 +8,9 @@ public class PlanetsCharacteristics : SolarSystemObjects
    public bool rings = false;
    public bool gasPlanet = false;
    
-   public MoonsCharacteristics moon;
+   public MoonsCharacteristics moon1;
+   public MoonsCharacteristics moon2;
+   public MoonsCharacteristics moon3;
 
    public void InstancePlanet()
    {

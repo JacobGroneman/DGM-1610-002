@@ -20,4 +20,6 @@ MonoBehaviour:
   planetNumber: 5
   rings: 1
   gasPlanet: 1
-  moon: {fileID: 0}
+  moon1: {fileID: 11400000, guid: bb80dcb6a2ee1e748b528303a7d654f5, type: 2}
+  moon2: {fileID: 11400000, guid: 75aac8626ba667e46af75b61e8c958e5, type: 2}
+  moon3: {fileID: 11400000, guid: db053ceaf79ece147b6b052f80454e52, type: 2}
