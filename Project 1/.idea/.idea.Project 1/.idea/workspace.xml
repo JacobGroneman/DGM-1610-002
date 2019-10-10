@@ -26,17 +26,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Weapons/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/cardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OnStartInvoke.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/Planets/PlanetsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,10 +49,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/SolarSystemObjects.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/convictDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
@@ -56,15 +63,12 @@
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/VarsClass.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Characters/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/DogClassOnMouseDown.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/LightOffClass.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ParticleControl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Movement/MovementPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/CameraMovement.cs" />
@@ -112,6 +116,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Players For Player Data/Weapons/WeaponData.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnStartInvoke.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/Moons/MoonsCharacteristics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/SolarSystemObjects.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/Planets/PlanetsCharacteristics.cs" />
       </list>
     </option>
   </component>
@@ -200,6 +208,7 @@
       <workItem from="1570416530935" duration="1837000" />
       <workItem from="1570509530711" duration="4385000" />
       <workItem from="1570568205182" duration="3270000" />
+      <workItem from="1570682441667" duration="1938000" />
     </task>
     <servers />
   </component>

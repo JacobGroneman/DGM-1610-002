@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
+    <Compile Include="Assets\OnStartInvoke.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\Behavior09092019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\FloatData.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\MouseEvents.cs" />
@@ -82,6 +83,9 @@
     <Compile Include="Assets\Scripts\Other\TriggerEvents.cs" />
     <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Characters\PlayerData.cs" />
     <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\GameArtData.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Practice10.09.19\Moons\MoonsCharacteristics.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Practice10.09.19\Planets\PlanetsCharacteristics.cs" />
+    <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Practice10.09.19\SolarSystemObjects.cs" />
     <Compile Include="Assets\Scripts\Player&amp;WeaponConfiguring\Weapons\WeaponData.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\BrackiesTutorial\CardTemplate.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\CharacterScript.cs" />
