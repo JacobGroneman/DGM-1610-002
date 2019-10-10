@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf4a43d0daf28e4e8103d3907f9be79, type: 3}
+  m_Name: Saturn
+  m_EditorClassIdentifier: 
+  name: Saturn
+  surfaceArea: 16.49 billion mi2
+  atmosphere: {r: 1, g: 0.9346494, b: 0.48584908, a: 0.8039216}
+  sprite: {fileID: 21300000, guid: 5722f0b476602ab40a9fa03eb4f6646e, type: 3}
+  prefab: {fileID: 8287571796370882756, guid: 1f6aa8ef4ddebfc46ae9ac3bf7deafd5, type: 3}
+  planetNumber: 6
+  rings: 1
+  gasPlanet: 1
+  moons:
+  - {fileID: 11400000, guid: 558bb2fde5d9faa4bae6349e8b292eb6, type: 2}
+  - {fileID: 11400000, guid: 7884586417d4f2b4896aeb5b1ab62cbf, type: 2}
+  - {fileID: 11400000, guid: cb6ecf500adffc0439a02e8ad28b3bea, type: 2}

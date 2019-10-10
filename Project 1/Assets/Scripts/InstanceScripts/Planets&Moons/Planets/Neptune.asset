@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bf4a43d0daf28e4e8103d3907f9be79, type: 3}
+  m_Name: Neptune
+  m_EditorClassIdentifier: 
+  name: Neptune
+  surfaceArea: 2.941 billion mi2
+  atmosphere: {r: 0, g: 0.52555114, b: 0.8301887, a: 0.8235294}
+  sprite: {fileID: 21300000, guid: 5722f0b476602ab40a9fa03eb4f6646e, type: 3}
+  prefab: {fileID: 8287571796370882756, guid: 1f6aa8ef4ddebfc46ae9ac3bf7deafd5, type: 3}
+  planetNumber: 8
+  rings: 1
+  gasPlanet: 1
+  moons:
+  - {fileID: 11400000, guid: e38ee14fd6a02cd4193936bb129db459, type: 2}
+  - {fileID: 11400000, guid: 30e0275df49670544aa58acfc452a3e8, type: 2}
+  - {fileID: 11400000, guid: 8cf2bfda4aa30744093a4cd0edbc5381, type: 2}

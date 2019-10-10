@@ -27,6 +27,44 @@
             <e p="IfStatements.cs" t="Include" />
             <e p="IfYouGiveaMouseaCookie.cs" t="Include" />
           </e>
+          <e p="InstanceScripts" t="Include">
+            <e p="Albums&amp;Songs" t="Include">
+              <e p="Albums" t="Include">
+                <e p="AlbumData.cs" t="Include" />
+              </e>
+              <e p="MusicData.cs" t="Include" />
+              <e p="Songs" t="Include">
+                <e p="SongData.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Characters&amp;Weapons" t="Include">
+              <e p="Characters" t="Include">
+                <e p="PlayerData.cs" t="Include" />
+              </e>
+              <e p="Clothes" t="Include">
+                <e p="ClothesData.cs" t="Include" />
+                <e p="Pants" t="Include">
+                  <e p="PantsData.cs" t="Include" />
+                </e>
+                <e p="Shirts" t="Include">
+                  <e p="shirtData.cs" t="Include" />
+                </e>
+              </e>
+              <e p="GameArtData.cs" t="Include" />
+              <e p="Weapons" t="Include">
+                <e p="WeaponData.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Planets&amp;Moons" t="Include">
+              <e p="Moons" t="Include">
+                <e p="MoonsCharacteristics.cs" t="Include" />
+              </e>
+              <e p="Planets" t="Include">
+                <e p="PlanetsData.cs" t="Include" />
+              </e>
+              <e p="SolarSystemData.cs" t="Include" />
+            </e>
+          </e>
           <e p="Loops" t="Include">
             <e p="WhileLoop.cs" t="Include" />
           </e>
@@ -42,24 +80,6 @@
             <e p="ParticleControl.cs" t="Include" />
             <e p="TriggerEventPracticeScript.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
-          </e>
-          <e p="Player&amp;WeaponConfiguring" t="Include">
-            <e p="Characters" t="Include">
-              <e p="PlayerData.cs" t="Include" />
-            </e>
-            <e p="GameArtData.cs" t="Include" />
-            <e p="Practice10.09.19" t="Include">
-              <e p="Moons" t="Include">
-                <e p="MoonsCharacteristics.cs" t="Include" />
-              </e>
-              <e p="Planets" t="Include">
-                <e p="PlanetsCharacteristics.cs" t="Include" />
-              </e>
-              <e p="SolarSystemObjects.cs" t="Include" />
-            </e>
-            <e p="Weapons" t="Include">
-              <e p="WeaponData.cs" t="Include" />
-            </e>
           </e>
           <e p="Scriptable Objects" t="Include">
             <e p="BrackiesTutorial" t="Include">
