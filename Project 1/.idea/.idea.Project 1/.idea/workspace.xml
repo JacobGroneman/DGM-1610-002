@@ -42,6 +42,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Shirts/shirtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/44/11d7b000/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -79,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FunctionScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScript.cs" />
@@ -130,6 +130,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" />
       </list>
     </option>
   </component>
@@ -220,6 +221,7 @@
       <workItem from="1570568205182" duration="3270000" />
       <workItem from="1570682441667" duration="2889000" />
       <workItem from="1570739983759" duration="4394000" />
+      <workItem from="1570857047583" duration="882000" />
     </task>
     <servers />
   </component>

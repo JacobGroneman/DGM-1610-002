@@ -108,6 +108,7 @@
     <Compile Include="Assets\Scripts\UI Elements\HealthBar.cs" />
     <Compile Include="Assets\Scripts\uiImageController\monoEvents.cs" />
     <Compile Include="Assets\Scripts\uiImageController\uiImageController.cs" />
+    <Compile Include="Assets\Scripts\VideosAndGameArt.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
