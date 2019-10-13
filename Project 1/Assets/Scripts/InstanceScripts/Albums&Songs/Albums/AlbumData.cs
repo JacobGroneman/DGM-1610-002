@@ -1,18 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class AlbumData : MonoBehaviour
+[CreateAssetMenu(fileName = "New Album", menuName = "Music Object/New Album")]
+public class AlbumData : MusicData
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   public List<SongData> songs;
 }

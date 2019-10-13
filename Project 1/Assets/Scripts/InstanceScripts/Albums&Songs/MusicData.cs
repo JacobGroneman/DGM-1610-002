@@ -6,7 +6,8 @@ using UnityEngine;
 public class MusicData : ScriptableObject
 {
     public string title;
-    public string artistName;
-    public int year;
+    public string artist;
     public string producer;
+    public int year;
+    public string duration;
 }
