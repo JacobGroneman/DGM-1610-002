@@ -45,6 +45,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/44/11d7b000/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/DogClassOnMouseDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -68,9 +70,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/bf/6e6ebc98/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/convictDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/4a/35fee684/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/cameraControllerTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -82,8 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/FunctionScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/ScriptableCharacterPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/cardTemplate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/CardTemplate.cs" />
@@ -127,12 +127,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Pants/PantsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/MusicData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" />
       </list>
     </option>
   </component>
@@ -225,6 +227,8 @@
       <workItem from="1570739983759" duration="4394000" />
       <workItem from="1570857047583" duration="882000" />
       <workItem from="1570943371281" duration="1663000" />
+      <workItem from="1571172250345" duration="1504000" />
+      <workItem from="1571174620999" duration="1836000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class cameraControllerTest : MonoBehaviour
+public class MyCameraControllerPractice : MonoBehaviour
 {
     public GameObject player;
     private Vector3 offset;

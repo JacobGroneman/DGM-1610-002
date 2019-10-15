@@ -67,7 +67,8 @@
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\ScriptFor09062019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\StartBehavior.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\VarsClass.cs" />
-    <Compile Include="Assets\Scripts\CameraController\cameraControllerTest.cs" />
+    <Compile Include="Assets\Scripts\CameraController\CinemachineController.cs" />
+    <Compile Include="Assets\Scripts\CameraController\MyCameraControllerPractice.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
@@ -123,6 +124,12 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.7f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

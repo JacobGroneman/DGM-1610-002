@@ -1,11 +1,11 @@
 ﻿
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-  
   public float health;
 
   
@@ -15,8 +15,8 @@ public class PlayerData : GameArtData
   public ClothesData shirt;
   public ClothesData pants;
   
-
-  
+//creates action to send character to camera
+  public UnityAction<GameObject> instanceAction;
   
   public void InstancePlayer()
   {
@@ -24,7 +24,9 @@ public class PlayerData : GameArtData
     var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
     newSprite.sprite = sprite;
     newSprite.color = color;
-
+    
+    //sends camera the character instance
+    instanceAction(newPlayer);
   }
 
 }
