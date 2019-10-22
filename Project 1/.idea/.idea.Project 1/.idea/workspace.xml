@@ -41,6 +41,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Shirts/shirtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
@@ -51,6 +52,7 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/NaughtyPeopleScripts/CardTemplate2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -84,10 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/ScriptableCharacterPractice.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/cardTemplate.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterScripts/CardTemplate.cs" />
-        <option value="$PROJECT_DIR$/Assets/cardDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CardTemplate.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CardTemplate2.cs" />
         <option value="$PROJECT_DIR$/Assets/convictDisplay.cs" />
@@ -126,7 +124,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Pants/PantsData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
@@ -135,6 +132,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollectionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" />
       </list>
     </option>
   </component>
@@ -229,6 +231,7 @@
       <workItem from="1570943371281" duration="1663000" />
       <workItem from="1571172250345" duration="1504000" />
       <workItem from="1571174620999" duration="1836000" />
+      <workItem from="1571777819099" duration="3802000" />
     </task>
     <servers />
   </component>
