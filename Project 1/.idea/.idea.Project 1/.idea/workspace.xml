@@ -88,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/convictDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/intData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/monoEvents.cs" />
@@ -124,7 +123,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" />
@@ -139,6 +137,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemVisits.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/Lists.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" />
       </list>
     </option>
   </component>
@@ -234,7 +234,9 @@
       <workItem from="1571172250345" duration="1504000" />
       <workItem from="1571174620999" duration="1836000" />
       <workItem from="1571777819099" duration="3802000" />
-      <workItem from="1571895340755" duration="2015000" />
+      <workItem from="1571895340755" duration="2623000" />
+      <workItem from="1571949995393" duration="203000" />
+      <workItem from="1571950662309" duration="2875000" />
     </task>
     <servers />
   </component>
