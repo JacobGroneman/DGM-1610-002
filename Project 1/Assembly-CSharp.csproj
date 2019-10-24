@@ -85,6 +85,7 @@
     <Compile Include="Assets\Scripts\InstanceScripts\Planets&amp;Moons\Moons\MoonsCharacteristics.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Planets&amp;Moons\Planets\PlanetsData.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Planets&amp;Moons\SolarSystemData.cs" />
+    <Compile Include="Assets\Scripts\InstanceScripts\Planets&amp;Moons\SolarSystemVisits.cs" />
     <Compile Include="Assets\Scripts\Loops\WhileLoop.cs" />
     <Compile Include="Assets\Scripts\Movement\CharacterController.cs" />
     <Compile Include="Assets\Scripts\Movement\ControllerPractice.cs" />

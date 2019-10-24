@@ -3,7 +3,7 @@ using UnityEngine;
 
 
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "New Int Data", menuName = "Simple Data Scripts/Int Data")]
 public class intData : ScriptableObject
 {
     public int value = 0;

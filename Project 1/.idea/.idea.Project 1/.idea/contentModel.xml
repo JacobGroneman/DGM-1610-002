@@ -67,6 +67,7 @@
                 <e p="PlanetsData.cs" t="Include" />
               </e>
               <e p="SolarSystemData.cs" t="Include" />
+              <e p="SolarSystemVisits.cs" t="Include" />
             </e>
           </e>
           <e p="Loops" t="Include">

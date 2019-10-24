@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "New Character", menuName = "Character Things/Character")]
 public class PlayerData : GameArtData
 {
   public float health;

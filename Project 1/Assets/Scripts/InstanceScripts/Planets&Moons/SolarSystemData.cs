@@ -9,4 +9,5 @@ public class SolarSystemData : ScriptableObject
     public Color atmosphere;
     public Sprite sprite;
     public GameObject prefab;
+    public bool visited;
 }

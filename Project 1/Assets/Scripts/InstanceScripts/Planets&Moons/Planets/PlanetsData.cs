@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(fileName = "New Planet", menuName = "Solar System/Planet")]
 public class PlanetsData : SolarSystemData
 {
    public int planetNumber;
