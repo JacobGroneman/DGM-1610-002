@@ -54,6 +54,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/NaughtyPeopleScripts/CardTemplate2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -87,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/CardTemplate2.cs" />
         <option value="$PROJECT_DIR$/Assets/convictDisplay.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/intData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" />
@@ -129,7 +129,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Pants/PantsData.cs" />
@@ -138,6 +137,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemVisits.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" />
       </list>
     </option>
   </component>
@@ -233,7 +234,7 @@
       <workItem from="1571172250345" duration="1504000" />
       <workItem from="1571174620999" duration="1836000" />
       <workItem from="1571777819099" duration="3802000" />
-      <workItem from="1571895340755" duration="1452000" />
+      <workItem from="1571895340755" duration="2015000" />
     </task>
     <servers />
   </component>
@@ -259,6 +260,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="308" y="98" key="#Notifications" />
+    <state x="308" y="98" key="#Notifications/1920.1080" />
     <state x="518" y="136" key="RiderGenerateDialog" />
     <state x="518" y="136" key="RiderGenerateDialog/1920.1080" />
     <state x="261" y="54" key="SettingsEditor" />

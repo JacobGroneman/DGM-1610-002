@@ -74,6 +74,7 @@
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Albums&amp;Songs\Albums\AlbumData.cs" />
+    <Compile Include="Assets\Scripts\InstanceScripts\Albums&amp;Songs\Albums\ListenedSongs.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Albums&amp;Songs\MusicData.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Albums&amp;Songs\Songs\SongData.cs" />
     <Compile Include="Assets\Scripts\InstanceScripts\Characters&amp;Weapons\Characters\PlayerData.cs" />

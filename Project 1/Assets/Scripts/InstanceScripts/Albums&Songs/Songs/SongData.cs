@@ -6,4 +6,5 @@ using UnityEngine;
 public class SongData : MusicData
 {
   public AlbumData album;
+  public bool listened;
 }

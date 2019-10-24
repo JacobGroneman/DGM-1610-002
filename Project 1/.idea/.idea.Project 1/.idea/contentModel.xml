@@ -35,6 +35,7 @@
             <e p="Albums&amp;Songs" t="Include">
               <e p="Albums" t="Include">
                 <e p="AlbumData.cs" t="Include" />
+                <e p="ListenedSongs.cs" t="Include" />
               </e>
               <e p="MusicData.cs" t="Include" />
               <e p="Songs" t="Include">
