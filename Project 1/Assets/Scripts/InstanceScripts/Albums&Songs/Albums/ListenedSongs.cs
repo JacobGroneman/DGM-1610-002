@@ -14,7 +14,7 @@ public class ListenedSongs : ScriptableObject
             previouslyListened.Add(song);
             song.listened = true;
         }
-        public void RemoveLastItem()
+          void RemoveLastItem()
         {
             if(!previouslyListened.Contains(null))
             {

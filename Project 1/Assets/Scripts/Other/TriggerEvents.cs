@@ -16,4 +16,9 @@ public class TriggerEvents : MonoBehaviour
     {
         triggerEvent.Invoke();
     }
+
+    private void OnTriggerExit(Collider other)
+    {
+        triggerExitEvent.Invoke;
+    }
 }

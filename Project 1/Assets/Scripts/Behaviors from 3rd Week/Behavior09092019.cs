@@ -6,7 +6,7 @@ using UnityEngine.Events;
 
 public class Behavior09092019 : MonoBehaviour
 {
-    public new bool theBool = false;
+    /*public new bool theBool = false;*/
 
     public bool bool2TheSequel = true;
 

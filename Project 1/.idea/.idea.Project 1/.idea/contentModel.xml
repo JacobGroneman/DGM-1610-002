@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="cardDisplay.cs" t="Include" />
         <e p="convictDisplay.cs" t="Include" />
+        <e p="EnumSwitch.cs" t="Include" />
         <e p="OnStartInvoke.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Behaviors from 3rd Week" t="Include">
@@ -26,6 +27,8 @@
           <e p="Collections" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
           </e>
+          <e p="Debugger.cs" t="Include" />
+          <e p="DebuggerHandler.cs" t="Include" />
           <e p="If Statements" t="Include">
             <e p="getFruity.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
@@ -87,6 +90,7 @@
             <e p="TriggerEventPracticeScript.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>
+          <e p="PlayerHandler.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
             <e p="BrackiesTutorial" t="Include">
               <e p="cardTemplate.cs" t="Include" />

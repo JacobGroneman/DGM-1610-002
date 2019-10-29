@@ -15,7 +15,7 @@ public class SolarSystemVisits : ScriptableObject
             obj.visited = true;
         }
         
-        public void RemoveLastItem()
+         void RemoveLastItem()
         {
             if(!solarSystemPassport.Contains(null))
             {

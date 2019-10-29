@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
+    <Compile Include="Assets\EnumSwitch.cs" />
     <Compile Include="Assets\OnStartInvoke.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\Behavior09092019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\FloatData.cs" />
@@ -70,6 +71,8 @@
     <Compile Include="Assets\Scripts\CameraController\CinemachineController.cs" />
     <Compile Include="Assets\Scripts\CameraController\MyCameraControllerPractice.cs" />
     <Compile Include="Assets\Scripts\Collections\GameArtCollection.cs" />
+    <Compile Include="Assets\Scripts\Debugger.cs" />
+    <Compile Include="Assets\Scripts\DebuggerHandler.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
@@ -97,6 +100,7 @@
     <Compile Include="Assets\Scripts\Other\ParticleControl.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEventPracticeScript.cs" />
     <Compile Include="Assets\Scripts\Other\TriggerEvents.cs" />
+    <Compile Include="Assets\Scripts\PlayerHandler.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\BrackiesTutorial\CardTemplate.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\CharacterScript.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\intData.cs" />

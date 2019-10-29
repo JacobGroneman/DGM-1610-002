@@ -44,10 +44,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerDebugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/44/11d7b000/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/DogClassOnMouseDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -58,6 +61,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,6 +79,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/convictDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/4a/35fee684/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/Behavior09092019.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
@@ -88,11 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/intData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/monoEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" />
         <option value="$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" />
@@ -121,7 +121,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
@@ -139,6 +138,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemVisits.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnumSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/Behavior09092019.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DebuggerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerDebugger.cs" />
       </list>
     </option>
   </component>
@@ -239,6 +244,7 @@
       <workItem from="1571950662309" duration="2917000" />
       <workItem from="1571953905690" duration="48000" />
       <workItem from="1572326294631" duration="239000" />
+      <workItem from="1572381835737" duration="3048000" />
     </task>
     <servers />
   </component>
