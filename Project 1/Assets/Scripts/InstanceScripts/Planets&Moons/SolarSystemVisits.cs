@@ -15,5 +15,13 @@ public class SolarSystemVisits : ScriptableObject
             obj.visited = true;
         }
         
+        public void RemoveLastItem()
+        {
+            if(!solarSystemPassport.Contains(null))
+            {
+                solarSystemPassport.RemoveAt(solarSystemPassport.Count - 1);
+            }
+        }
+        
     }
 }
