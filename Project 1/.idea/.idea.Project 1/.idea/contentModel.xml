@@ -27,8 +27,6 @@
           <e p="Collections" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
           </e>
-          <e p="Debugger.cs" t="Include" />
-          <e p="DebuggerHandler.cs" t="Include" />
           <e p="If Statements" t="Include">
             <e p="getFruity.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
@@ -90,7 +88,6 @@
             <e p="TriggerEventPracticeScript.cs" t="Include" />
             <e p="TriggerEvents.cs" t="Include" />
           </e>
-          <e p="PlayerHandler.cs" t="Include" />
           <e p="Scriptable Objects" t="Include">
             <e p="BrackiesTutorial" t="Include">
               <e p="cardTemplate.cs" t="Include" />
@@ -112,6 +109,10 @@
             <e p="StructCharizard.cs" t="Include" />
             <e p="StructDitto.cs" t="Include" />
             <e p="StructFlareon.cs" t="Include" />
+          </e>
+          <e p="Switches Enums" t="Include">
+            <e p="EnumPractice.cs" t="Include" />
+            <e p="SwitchPractice.cs" t="Include" />
           </e>
           <e p="UI Elements" t="Include">
             <e p="HealthBar.cs" t="Include" />
