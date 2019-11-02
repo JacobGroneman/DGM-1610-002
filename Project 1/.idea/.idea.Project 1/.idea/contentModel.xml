@@ -113,6 +113,7 @@
           <e p="Switches Enums" t="Include">
             <e p="EnumPractice.cs" t="Include" />
             <e p="GunSwitcher.cs" t="Include" />
+            <e p="MineCraftItemSwitcher.cs" t="Include" />
             <e p="SwitchPractice.cs" t="Include" />
           </e>
           <e p="UI Elements" t="Include">
