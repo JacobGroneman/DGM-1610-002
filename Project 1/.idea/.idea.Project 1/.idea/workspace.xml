@@ -66,6 +66,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/EnumPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/GunSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/1d/801462e3/Object.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" root0="FORCE_HIGHLIGHTING" />
@@ -93,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/Struct1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/Struct1MonoBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" />
@@ -144,6 +144,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches/UnityTutorialSwitchPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/EnumPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/SwitchPractice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/GunSwitcher.cs" />
       </list>
     </option>
   </component>
@@ -245,7 +246,8 @@
       <workItem from="1571953905690" duration="48000" />
       <workItem from="1572326294631" duration="239000" />
       <workItem from="1572381835737" duration="3762000" />
-      <workItem from="1572560338183" duration="2909000" />
+      <workItem from="1572560338183" duration="3512000" />
+      <workItem from="1572668057288" duration="2262000" />
     </task>
     <servers />
   </component>

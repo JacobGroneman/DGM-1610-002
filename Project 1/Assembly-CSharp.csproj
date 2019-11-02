@@ -111,6 +111,7 @@
     <Compile Include="Assets\Scripts\Structs\StructDitto.cs" />
     <Compile Include="Assets\Scripts\Structs\StructFlareon.cs" />
     <Compile Include="Assets\Scripts\Switches Enums\EnumPractice.cs" />
+    <Compile Include="Assets\Scripts\Switches Enums\GunSwitcher.cs" />
     <Compile Include="Assets\Scripts\Switches Enums\SwitchPractice.cs" />
     <Compile Include="Assets\Scripts\UI Elements\HealthBar.cs" />
     <Compile Include="Assets\Scripts\uiImageController\monoEvents.cs" />
