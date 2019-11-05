@@ -27,12 +27,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Weapons/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/cardDisplay.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/SwitchPractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/MineCraftItemSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,6 +71,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/GunSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/1d/801462e3/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AINav.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../Practicing Unity Event and Float Data Scripts/Assets/Scripts/Loops/DoWhileLoop.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/aa/e27aef81/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
@@ -87,7 +90,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/VarsClass.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/ControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,10 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructFlareon.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Structs/StructBulbasaur.cs" />
@@ -146,6 +144,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/SwitchPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/GunSwitcher.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Switches Enums/MineCraftItemSwitcher.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/AINav.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AI/MouseEvents.cs" />
       </list>
     </option>
   </component>
@@ -250,6 +252,7 @@
       <workItem from="1572381835737" duration="3762000" />
       <workItem from="1572560338183" duration="3512000" />
       <workItem from="1572668057288" duration="3059000" />
+      <workItem from="1572990844680" duration="3926000" />
     </task>
     <servers />
   </component>
