@@ -12,9 +12,17 @@
         <e p="OnStartInvoke.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AI" t="Include">
-            <e p="AINav.cs" t="Include" />
-            <e p="MouseEvents.cs" t="Include" />
-            <e p="Vector3Data.cs" t="Include" />
+            <e p="ClassStuff" t="Include">
+              <e p="AINav.cs" t="Include" />
+              <e p="MouseEvents.cs" t="Include" />
+              <e p="Vector3Data.cs" t="Include" />
+            </e>
+            <e p="Controllers" t="Include">
+              <e p="Enemy.cs" t="Include" />
+              <e p="EnemyAIController.cs" t="Include" />
+              <e p="EnemyStats.cs" t="Include" />
+              <e p="PlayerManager.cs" t="Include" />
+            </e>
           </e>
           <e p="Behaviors from 3rd Week" t="Include">
             <e p="Behavior09092019.cs" t="Include" />

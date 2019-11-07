@@ -61,9 +61,13 @@
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />
     <Compile Include="Assets\OnStartInvoke.cs" />
-    <Compile Include="Assets\Scripts\AI\AINav.cs" />
-    <Compile Include="Assets\Scripts\AI\MouseEvents.cs" />
-    <Compile Include="Assets\Scripts\AI\Vector3Data.cs" />
+    <Compile Include="Assets\Scripts\AI\ClassStuff\AINav.cs" />
+    <Compile Include="Assets\Scripts\AI\ClassStuff\MouseEvents.cs" />
+    <Compile Include="Assets\Scripts\AI\ClassStuff\Vector3Data.cs" />
+    <Compile Include="Assets\Scripts\AI\Controllers\Enemy.cs" />
+    <Compile Include="Assets\Scripts\AI\Controllers\EnemyAIController.cs" />
+    <Compile Include="Assets\Scripts\AI\Controllers\EnemyStats.cs" />
+    <Compile Include="Assets\Scripts\AI\Controllers\PlayerManager.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\Behavior09092019.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\FloatData.cs" />
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\NewBehaviourScript.cs" />
