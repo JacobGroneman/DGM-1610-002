@@ -13,6 +13,7 @@
         <e p="Scripts" t="Include">
           <e p="AI" t="Include">
             <e p="AI Practice" t="Include">
+              <e p="Enemy Stats.cs" t="Include" />
               <e p="EnemyAI.cs" t="Include" />
               <e p="EnemyAIControllerPractice.cs" t="Include" />
               <e p="PlayerManagerAIPractice.cs" t="Include" />
@@ -41,9 +42,11 @@
             <e p="CinemachineController.cs" t="Include" />
             <e p="MyCameraControllerPractice.cs" t="Include" />
           </e>
+          <e p="CodeRoutines.cs" t="Include" />
           <e p="Collections" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
           </e>
+          <e p="Coroutines.cs" t="Include" />
           <e p="If Statements" t="Include">
             <e p="getFruity.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />

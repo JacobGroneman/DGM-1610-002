@@ -80,7 +80,9 @@
     <Compile Include="Assets\Scripts\Behaviors from 3rd Week\VarsClass.cs" />
     <Compile Include="Assets\Scripts\CameraController\CinemachineController.cs" />
     <Compile Include="Assets\Scripts\CameraController\MyCameraControllerPractice.cs" />
+    <Compile Include="Assets\Scripts\CodeRoutines.cs" />
     <Compile Include="Assets\Scripts\Collections\GameArtCollection.cs" />
+    <Compile Include="Assets\Scripts\Coroutines.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
