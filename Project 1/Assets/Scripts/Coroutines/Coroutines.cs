@@ -35,7 +35,7 @@ public class Coroutines : MonoBehaviour
             counter--;
         }
 
-        while (canRun)
+        //while (/*canRun*/)
         {
             repeatEvent.Invoke();
             yield return wfsobj;
