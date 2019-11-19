@@ -7,7 +7,7 @@ using UnityEngine.Experimental.UIElements;
 public class CoroutineClass : MonoBehaviour
 {
    public bool canRun = true;
-   public intData index = 10;
+   public intData index;
    public float seconds = 1f;
    private WaitForSeconds wfsobj;
 

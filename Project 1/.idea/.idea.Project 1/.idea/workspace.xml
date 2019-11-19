@@ -57,10 +57,12 @@
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/TimerCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/NaughtyPeopleScripts/CardTemplate2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/UnityCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/c9/697466ec/Input.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AI Practice/PlayerManagerAIPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -79,6 +81,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/uiImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/df/11b9b221/Component.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/AI Practice/EnemyAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/timeSequenceCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/MusicData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/Brackeys/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -104,10 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player&amp;WeaponConfiguring/Practice10.09.19/Planets/PlanetsCharacteristics.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/VideosAndGameArt.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/MusicData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionData.cs" />
@@ -155,6 +154,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutineClass1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutineClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/UnityCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/explosionCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/timeSequenceCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/TimerCoroutine.cs" />
       </list>
     </option>
   </component>
@@ -265,6 +268,7 @@
       <workItem from="1573595157686" duration="4154000" />
       <workItem from="1573767658548" duration="3459000" />
       <workItem from="1573771519342" duration="18000" />
+      <workItem from="1574138393828" duration="2924000" />
     </task>
     <servers />
   </component>

@@ -49,6 +49,11 @@
             <e p="CodeRoutines.cs" t="Include" />
             <e p="CoroutineClass.cs" t="Include" />
             <e p="CoroutineClass1.cs" t="Include" />
+            <e p="CoroutinePractice" t="Include">
+              <e p="TimerCoroutine.cs" t="Include" />
+              <e p="timeSequenceCoroutine.cs" t="Include" />
+              <e p="UnityCoroutine.cs" t="Include" />
+            </e>
             <e p="Coroutines.cs" t="Include" />
           </e>
           <e p="If Statements" t="Include">
