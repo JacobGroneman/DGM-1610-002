@@ -84,6 +84,7 @@
     <Compile Include="Assets\Scripts\Coroutines\CodeRoutines.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutineClass.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutineClass1.cs" />
+    <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\RocketLaunchCoroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\TimerCoroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\timeSequenceCoroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\UnityCoroutine.cs" />

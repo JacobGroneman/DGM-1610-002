@@ -50,6 +50,7 @@
             <e p="CoroutineClass.cs" t="Include" />
             <e p="CoroutineClass1.cs" t="Include" />
             <e p="CoroutinePractice" t="Include">
+              <e p="ThisIsAnotherCoroutineHunnyBun.cs" t="Include" />
               <e p="TimerCoroutine.cs" t="Include" />
               <e p="timeSequenceCoroutine.cs" t="Include" />
               <e p="UnityCoroutine.cs" t="Include" />

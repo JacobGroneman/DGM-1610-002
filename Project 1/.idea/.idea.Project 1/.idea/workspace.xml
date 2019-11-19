@@ -107,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" />
@@ -158,6 +157,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/explosionCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/timeSequenceCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/TimerCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/ThisIsAnotherCoroutineHunnyBun.cs" />
       </list>
     </option>
   </component>
@@ -268,7 +268,7 @@
       <workItem from="1573595157686" duration="4154000" />
       <workItem from="1573767658548" duration="3459000" />
       <workItem from="1573771519342" duration="18000" />
-      <workItem from="1574138393828" duration="2924000" />
+      <workItem from="1574138393828" duration="4805000" />
     </task>
     <servers />
   </component>
@@ -334,6 +334,8 @@
     <state x="261" y="54" key="SettingsEditor/1920.1080" />
     <state x="393" y="190" key="run.anything.popup" />
     <state x="393" y="190" key="run.anything.popup/1920.1080" />
+    <state x="813" y="146" width="672" height="678" key="search.everywhere.popup" />
+    <state x="813" y="146" width="672" height="678" key="search.everywhere.popup/1920.1080" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
