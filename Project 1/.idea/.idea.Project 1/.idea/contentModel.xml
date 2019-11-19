@@ -6,6 +6,9 @@
     <e p="C:\Users\jacob\OneDrive\Utah Valley University\Scripting\DGM 1610-002\Project 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animations" t="Include">
+          <e p="ButtonInput.cs" t="Include" />
+        </e>
         <e p="cardDisplay.cs" t="Include" />
         <e p="convictDisplay.cs" t="Include" />
         <e p="EnumSwitch.cs" t="Include" />
@@ -50,7 +53,7 @@
             <e p="CoroutineClass.cs" t="Include" />
             <e p="CoroutineClass1.cs" t="Include" />
             <e p="CoroutinePractice" t="Include">
-              <e p="ThisIsAnotherCoroutineHunnyBun.cs" t="Include" />
+              <e p="RocketLaunchCoroutine.cs" t="Include" />
               <e p="TimerCoroutine.cs" t="Include" />
               <e p="timeSequenceCoroutine.cs" t="Include" />
               <e p="UnityCoroutine.cs" t="Include" />

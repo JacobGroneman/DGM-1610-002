@@ -57,6 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Animations\ButtonInput.cs" />
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />

@@ -242,7 +242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canRun: 1
-  index: 3
+  index: {fileID: 0}
   seconds: 1
 --- !u!65 &440895235
 BoxCollider:
@@ -5165,8 +5165,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canRun: 1
-  index: 3
-  seconds: 1
+  index: {fileID: 0}
+  seconds: 10
 --- !u!1001 &1865756386
 PrefabInstance:
   m_ObjectHideFlags: 0
