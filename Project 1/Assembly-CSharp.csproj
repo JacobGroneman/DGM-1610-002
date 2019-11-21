@@ -58,6 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Animations\ButtonInput.cs" />
+    <Compile Include="Assets\Animations\StateMachines\GameAction.cs" />
+    <Compile Include="Assets\Animations\StateMachines\GameActionHandler.cs" />
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />
@@ -137,6 +139,7 @@
     <Compile Include="Assets\Scripts\uiImageController\monoEvents.cs" />
     <Compile Include="Assets\Scripts\uiImageController\uiImageController.cs" />
     <Compile Include="Assets\Scripts\VideosAndGameArt.cs" />
+    <Compile Include="Assets\StatesBehavior.cs" />
     <Reference Include="Cinemachine">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>

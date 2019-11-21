@@ -59,7 +59,9 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4641B023-C240-46AB-8991-0597E580442A/51/007d1244/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/uiImageController/monoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/TimerCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/StateMachines/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/NaughtyPeopleScripts/CardTemplate2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StatesBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructBonsly.cs" root0="FORCE_HIGHLIGHTING" />
@@ -101,6 +103,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animations/StateMachines/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/VarsClass.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/PokemonStruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutineClass1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -109,9 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" />
@@ -160,6 +160,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/RocketLaunchCoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines/CoroutinePractice/MissionToMars.cs" />
         <option value="$PROJECT_DIR$/Assets/Animations/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/StatesBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/StateMachines/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animations/StateMachines/GameActionHandler.cs" />
       </list>
     </option>
   </component>
@@ -272,6 +275,7 @@
       <workItem from="1573771519342" duration="18000" />
       <workItem from="1574138393828" duration="5839000" />
       <workItem from="1574203606933" duration="453000" />
+      <workItem from="1574374745175" duration="2000000" />
     </task>
     <servers />
   </component>
