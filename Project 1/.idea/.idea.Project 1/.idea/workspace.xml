@@ -71,7 +71,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructDitto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/EnumPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/uiTextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructAbsol.cs" root0="FORCE_HIGHLIGHTING" />
@@ -99,6 +101,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI Elements/HealthBar.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/Behavior09092019.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/IfYouGiveaMouseaCookie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Flip.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/MyCameraControllerPractice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Loops/WhileLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Structs/StructCharizard.cs" root0="FORCE_HIGHLIGHTING" />
@@ -112,10 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/AlbumData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Characters/PlayerData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/ClothesData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Pants/PantsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Shirts/shirtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Weapons/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" />
@@ -163,6 +162,10 @@
         <option value="$PROJECT_DIR$/Assets/StatesBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Animations/StateMachines/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Animations/StateMachines/GameActionHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelfDestruct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Flip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" />
       </list>
     </option>
   </component>
@@ -276,6 +279,7 @@
       <workItem from="1574138393828" duration="5839000" />
       <workItem from="1574203606933" duration="453000" />
       <workItem from="1574374745175" duration="2000000" />
+      <workItem from="1575410036402" duration="3486000" />
     </task>
     <servers />
   </component>

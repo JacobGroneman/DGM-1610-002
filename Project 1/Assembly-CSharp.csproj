@@ -63,6 +63,7 @@
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />
+    <Compile Include="Assets\Flip.cs" />
     <Compile Include="Assets\OnStartInvoke.cs" />
     <Compile Include="Assets\Scripts\AI\AI Practice\Enemy Stats.cs" />
     <Compile Include="Assets\Scripts\AI\AI Practice\EnemyAI.cs" />
@@ -92,6 +93,7 @@
     <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\timeSequenceCoroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutines\CoroutinePractice\UnityCoroutine.cs" />
     <Compile Include="Assets\Scripts\Coroutines\Coroutines.cs" />
+    <Compile Include="Assets\Scripts\FireWeapon.cs" />
     <Compile Include="Assets\Scripts\If Statements\getFruity.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfStatements.cs" />
     <Compile Include="Assets\Scripts\If Statements\IfYouGiveaMouseaCookie.cs" />
@@ -124,6 +126,7 @@
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\intData.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\Integer Datas\uiTextController.cs" />
     <Compile Include="Assets\Scripts\Scriptable Objects\NaughtyPeopleScripts\CardTemplate2.cs" />
+    <Compile Include="Assets\Scripts\SelfDestruct.cs" />
     <Compile Include="Assets\Scripts\Structs\PokemonStruct.cs" />
     <Compile Include="Assets\Scripts\Structs\StructAbsol.cs" />
     <Compile Include="Assets\Scripts\Structs\StructBonsly.cs" />

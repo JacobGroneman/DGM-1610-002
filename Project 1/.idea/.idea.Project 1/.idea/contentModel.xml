@@ -16,6 +16,7 @@
         <e p="cardDisplay.cs" t="Include" />
         <e p="convictDisplay.cs" t="Include" />
         <e p="EnumSwitch.cs" t="Include" />
+        <e p="Flip.cs" t="Include" />
         <e p="OnStartInvoke.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AI" t="Include">
@@ -64,6 +65,7 @@
             </e>
             <e p="Coroutines.cs" t="Include" />
           </e>
+          <e p="FireWeapon.cs" t="Include" />
           <e p="If Statements" t="Include">
             <e p="getFruity.cs" t="Include" />
             <e p="IfStatements.cs" t="Include" />
@@ -138,6 +140,7 @@
               <e p="CardTemplate2.cs" t="Include" />
             </e>
           </e>
+          <e p="SelfDestruct.cs" t="Include" />
           <e p="Structs" t="Include">
             <e p="PokemonStruct.cs" t="Include" />
             <e p="StructAbsol.cs" t="Include" />
