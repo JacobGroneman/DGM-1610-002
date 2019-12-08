@@ -115,8 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Clothes/Shirts/shirtData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/Weapons/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Scriptable Objects/Integer Datas/intData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
@@ -166,6 +164,8 @@
         <option value="$PROJECT_DIR$/Assets/Flip.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Other/BoingForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FireWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/FinalGame/Models and Characters/Character/Character Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/FinalGame/Models and Characters/Character/FinalCharacterController.cs" />
       </list>
     </option>
   </component>
@@ -280,6 +280,7 @@
       <workItem from="1574203606933" duration="453000" />
       <workItem from="1574374745175" duration="2000000" />
       <workItem from="1575410036402" duration="3536000" />
+      <workItem from="1575764218919" duration="1680000" />
     </task>
     <servers />
   </component>
