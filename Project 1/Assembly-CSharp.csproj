@@ -63,6 +63,7 @@
     <Compile Include="Assets\cardDisplay.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />
+    <Compile Include="Assets\FinalGame\Scripts\Function Scripts\NavMesh.cs" />
     <Compile Include="Assets\Flip.cs" />
     <Compile Include="Assets\OnStartInvoke.cs" />
     <Compile Include="Assets\Scripts\AI\AI Practice\Enemy Stats.cs" />
@@ -143,6 +144,7 @@
     <Compile Include="Assets\Scripts\uiImageController\uiImageController.cs" />
     <Compile Include="Assets\Scripts\VideosAndGameArt.cs" />
     <Compile Include="Assets\StatesBehavior.cs" />
+    <Compile Include="Assets\UIMechanics.cs" />
     <Reference Include="Cinemachine">
       <HintPath>C:/Users/jacob/OneDrive/Utah Valley University/Scripting/DGM 1610-002/Project 1/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>

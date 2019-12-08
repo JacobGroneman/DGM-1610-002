@@ -16,6 +16,13 @@
         <e p="cardDisplay.cs" t="Include" />
         <e p="convictDisplay.cs" t="Include" />
         <e p="EnumSwitch.cs" t="Include" />
+        <e p="FinalGame" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Function Scripts" t="Include">
+              <e p="NavMesh.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="Flip.cs" t="Include" />
         <e p="OnStartInvoke.cs" t="Include" />
         <e p="Scripts" t="Include">
@@ -166,6 +173,7 @@
           <e p="VideosAndGameArt.cs" t="Include" />
         </e>
         <e p="StatesBehavior.cs" t="Include" />
+        <e p="UIMechanics.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
