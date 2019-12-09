@@ -61,10 +61,12 @@
     <Compile Include="Assets\Animations\StateMachines\GameAction.cs" />
     <Compile Include="Assets\Animations\StateMachines\GameActionHandler.cs" />
     <Compile Include="Assets\cardDisplay.cs" />
+    <Compile Include="Assets\colliderenter.cs" />
     <Compile Include="Assets\convictDisplay.cs" />
     <Compile Include="Assets\EnumSwitch.cs" />
     <Compile Include="Assets\FinalGame\Scripts\Function Scripts\NavMesh.cs" />
     <Compile Include="Assets\Flip.cs" />
+    <Compile Include="Assets\HealthBarUI.cs" />
     <Compile Include="Assets\OnStartInvoke.cs" />
     <Compile Include="Assets\Scripts\AI\AI Practice\Enemy Stats.cs" />
     <Compile Include="Assets\Scripts\AI\AI Practice\EnemyAI.cs" />

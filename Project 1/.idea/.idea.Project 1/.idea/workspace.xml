@@ -33,6 +33,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Planets/PlanetsData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Characters&amp;Weapons/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/SwitchPractice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HealthBarUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Behaviors from 3rd Week/VarsClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Switches Enums/MineCraftItemSwitcher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/If Statements/getFruity.cs" root0="FORCE_HIGHLIGHTING" />
@@ -53,6 +54,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/Moons/MoonsCharacteristics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CF7FB9A7-54E7-4776-AE71-C25165CA083C/44/11d7b000/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Other/DogClassOnMouseDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/colliderenter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraController/CinemachineController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Scripts Used In Class/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -117,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Songs/SongData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Collections/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Collections/GameArtCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Albums&amp;Songs/Albums/ListenedSongs.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstanceScripts/Planets&amp;Moons/SolarSystemVisits.cs" />
@@ -168,6 +168,8 @@
         <option value="$PROJECT_DIR$/Assets/FinalGame/Models and Characters/Character/FinalCharacterController.cs" />
         <option value="$PROJECT_DIR$/Assets/UIMechanics.cs" />
         <option value="$PROJECT_DIR$/Assets/FinalGame/Scripts/Function Scripts/NavMesh.cs" />
+        <option value="$PROJECT_DIR$/Assets/colliderenter.cs" />
+        <option value="$PROJECT_DIR$/Assets/HealthBarUI.cs" />
       </list>
     </option>
   </component>
@@ -284,7 +286,8 @@
       <workItem from="1575410036402" duration="3536000" />
       <workItem from="1575764218919" duration="1680000" />
       <workItem from="1575828123311" duration="402000" />
-      <workItem from="1575828729578" duration="1492000" />
+      <workItem from="1575828729578" duration="1495000" />
+      <workItem from="1575918403569" duration="1145000" />
     </task>
     <servers />
   </component>

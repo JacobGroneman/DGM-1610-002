@@ -14,6 +14,7 @@
           </e>
         </e>
         <e p="cardDisplay.cs" t="Include" />
+        <e p="colliderenter.cs" t="Include" />
         <e p="convictDisplay.cs" t="Include" />
         <e p="EnumSwitch.cs" t="Include" />
         <e p="FinalGame" t="Include">
@@ -24,6 +25,7 @@
           </e>
         </e>
         <e p="Flip.cs" t="Include" />
+        <e p="HealthBarUI.cs" t="Include" />
         <e p="OnStartInvoke.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="AI" t="Include">
